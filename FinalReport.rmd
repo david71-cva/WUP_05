@@ -75,4 +75,4 @@ After examining Fisher's Exact Test for Count Data, the P-value is 6.596e-05, an
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+After doing this assignment,I learned how using a Categorical Categorical helper file can make this so much easier. This showed us how the drug was doing a backwards job of preventing Aids. But instead, it gives a higher chance of getting AIDS. The females had to be separated. Though we do have a job of interpreting the P-value and looking at the reasonwhy it is low. It is clear that not taking theis drug can help not To get aids.
